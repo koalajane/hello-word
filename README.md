@@ -1,2 +1,3 @@
 # hello-word
-first GitHub repository
+first GitHub rep
+I'm excited to learn GitHub. 
